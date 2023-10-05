@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T17:46:24.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VyceJRCRCvZByrP8PVhr" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T17:57:30.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="0L03WO5lFev9JXq3rYOP" version="22.0.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="3054" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3054" dy="3118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,17 @@
         <mxCell id="ccZkCGxkQBuY12EpuAgt-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="ccZkCGxkQBuY12EpuAgt-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Villu Vidu&lt;br&gt;&lt;i style=&quot;color: rgb(128, 128, 128);&quot;&gt;Rühmaülem&lt;/i&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-12">
+        <mxCell id="ccZkCGxkQBuY12EpuAgt-63" value="I Jagu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ccZkCGxkQBuY12EpuAgt-53">
+          <mxGeometry x="0.96" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccZkCGxkQBuY12EpuAgt-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1385.3333333333335" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Villu Vidu&lt;br&gt;&lt;i style=&quot;color: rgb(128, 128, 128);&quot;&gt;I Rühmaülem&lt;/i&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-12">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="1295" y="60" width="180" height="70" as="geometry" />
           </mxCell>
@@ -25,6 +35,11 @@
             <Array as="points">
               <mxPoint x="1790" y="340" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccZkCGxkQBuY12EpuAgt-72" value="II Pooljagu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-15">
+          <mxGeometry x="0.7358" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lXDqP3hr32WbxRZr7GGE-2" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-16" target="lXDqP3hr32WbxRZr7GGE-3" edge="1">
@@ -82,6 +97,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ccZkCGxkQBuY12EpuAgt-71" value="I Pooljagu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ccZkCGxkQBuY12EpuAgt-8">
+          <mxGeometry x="-0.8003" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Teet Karu&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Jaoülem&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-14">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
             <mxGeometry x="1690" y="230" width="180" height="80" as="geometry" />
@@ -97,6 +117,11 @@
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ccZkCGxkQBuY12EpuAgt-62" value="III Jagu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dNxyNK7c78bLwvsdeMH5-13">
+          <mxGeometry x="0.8882" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ccZkCGxkQBuY12EpuAgt-1" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="ccZkCGxkQBuY12EpuAgt-2" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
@@ -143,6 +168,11 @@
             <Array as="points">
               <mxPoint x="980" y="340" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccZkCGxkQBuY12EpuAgt-70" value="II Pooljagu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ccZkCGxkQBuY12EpuAgt-11">
+          <mxGeometry x="0.7292" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ccZkCGxkQBuY12EpuAgt-12" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ccZkCGxkQBuY12EpuAgt-10" target="ccZkCGxkQBuY12EpuAgt-13">
@@ -219,6 +249,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ccZkCGxkQBuY12EpuAgt-69" value="I Pooljagu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ccZkCGxkQBuY12EpuAgt-24">
+          <mxGeometry x="-0.9512" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Jaan Kaseorg&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Tankitõrjuri abi&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-25">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="1350" y="660" width="180" height="80" as="geometry" />
@@ -247,6 +282,11 @@
         <mxCell id="ccZkCGxkQBuY12EpuAgt-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.143;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="ccZkCGxkQBuY12EpuAgt-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ccZkCGxkQBuY12EpuAgt-61" value="II Jagu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ccZkCGxkQBuY12EpuAgt-52">
+          <mxGeometry x="0.8722" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Mihkel Teder&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Pooljao ülem&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-30">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="100" y="380" width="180" height="80" as="geometry" />
@@ -257,6 +297,11 @@
             <Array as="points">
               <mxPoint x="110" y="340" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccZkCGxkQBuY12EpuAgt-68" value="II Pooljagu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ccZkCGxkQBuY12EpuAgt-31">
+          <mxGeometry x="0.7458" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ccZkCGxkQBuY12EpuAgt-32" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="ccZkCGxkQBuY12EpuAgt-30" target="ccZkCGxkQBuY12EpuAgt-33">
@@ -331,6 +376,11 @@
             <Array as="points">
               <mxPoint x="-30" y="610" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccZkCGxkQBuY12EpuAgt-67" value="I Pooljagu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ccZkCGxkQBuY12EpuAgt-44">
+          <mxGeometry x="-0.9543" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Lakumu Kaseorg&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Tankitõrjuri abi&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-45">
