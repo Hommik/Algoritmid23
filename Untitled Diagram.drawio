@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T17:37:28.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="mhN-3XboxhHFOKiR4590" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T17:46:24.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VyceJRCRCvZByrP8PVhr" version="22.0.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2442" dy="2069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3054" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="-1100" width="2570" height="800" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Rühma alluvusstruktuur" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="-1630" y="-1150" width="2570" height="800" as="geometry" />
         </mxCell>
         <mxCell id="ccZkCGxkQBuY12EpuAgt-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="ccZkCGxkQBuY12EpuAgt-42">
           <mxGeometry relative="1" as="geometry" />
@@ -150,7 +150,7 @@
             <mxPoint x="1095" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Mauno Põder&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Kuulipildur&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-13">
+        <UserObject label="Martin Põder&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Kuulipildur&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-13">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="970" y="500" width="180" height="80" as="geometry" />
           </mxCell>
@@ -170,7 +170,7 @@
             <mxPoint x="1095" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Marek Kaasik&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Laskursanitar&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-17">
+        <UserObject label="Mauno Kaasik&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Laskursanitar&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-17">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="1350" y="500" width="180" height="80" as="geometry" />
           </mxCell>
@@ -180,7 +180,7 @@
             <mxPoint x="1095" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Robi Rohi&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Laskur&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-19">
+        <UserObject label="Teet Rohi&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Laskur&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-19">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="1540" y="500" width="180" height="80" as="geometry" />
           </mxCell>
@@ -198,7 +198,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="Teet Karu&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Jaoülem&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-22">
+        <UserObject label="RobiKaru&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Jaoülem&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-22">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="880" y="230" width="180" height="80" as="geometry" />
           </mxCell>
@@ -247,7 +247,7 @@
         <mxCell id="ccZkCGxkQBuY12EpuAgt-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.143;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="ccZkCGxkQBuY12EpuAgt-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Tauno Teder&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Pooljao ülem&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-30">
+        <UserObject label="Mihkel Teder&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Pooljao ülem&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-30">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="100" y="380" width="180" height="80" as="geometry" />
           </mxCell>
@@ -274,7 +274,7 @@
             <mxPoint x="225" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Tiit Rebane&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Kuulipilduri abi&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-35">
+        <UserObject label="Juhan Rebane&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Kuulipilduri abi&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-35">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="290" y="500" width="180" height="80" as="geometry" />
           </mxCell>
@@ -284,7 +284,7 @@
             <mxPoint x="225" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Marek Kaasik&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Laskursanitar&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-37">
+        <UserObject label="James Kaasik&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Laskursanitar&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-37">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="480" y="500" width="180" height="80" as="geometry" />
           </mxCell>
@@ -294,7 +294,7 @@
             <mxPoint x="225" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Robi Rohi&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Laskur&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-39">
+        <UserObject label="Miguel Rohi&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Laskur&lt;/i&gt;&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-39">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="670" y="500" width="180" height="80" as="geometry" />
           </mxCell>
@@ -312,7 +312,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="Teet Karu&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Jaoülem&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-42">
+        <UserObject label="Karl Karu&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Jaoülem&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-42">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="10" y="230" width="180" height="80" as="geometry" />
           </mxCell>
@@ -333,7 +333,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="Jaan Kaseorg&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Tankitõrjuri abi&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-45">
+        <UserObject label="Lakumu Kaseorg&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Tankitõrjuri abi&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-45">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="480" y="660" width="180" height="80" as="geometry" />
           </mxCell>
@@ -343,7 +343,7 @@
             <mxPoint x="379.76470588235316" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Kauri Tamm&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Täpsuslaskur&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-47">
+        <UserObject label="Merik Tamm&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Täpsuslaskur&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-47">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="289.99999999999955" y="660" width="180" height="80" as="geometry" />
           </mxCell>
@@ -353,7 +353,7 @@
             <mxPoint x="190" y="610" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Peeter Kuusik&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Täpsuslaskuri abi&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-49">
+        <UserObject label="Richard Kuusik&lt;br&gt;&lt;font color=&quot;#808080&quot;&gt;&lt;i&gt;Täpsuslaskuri abi&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-49">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="99.99999999999955" y="660" width="180" height="80" as="geometry" />
           </mxCell>
@@ -364,6 +364,14 @@
         <UserObject label="Viljar Udu&lt;br&gt;&lt;i style=&quot;color: rgb(128, 128, 128);&quot;&gt;Rühma parameedik&lt;/i&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-58">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
             <mxGeometry x="1530" y="60" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ccZkCGxkQBuY12EpuAgt-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="dNxyNK7c78bLwvsdeMH5-12" target="ccZkCGxkQBuY12EpuAgt-60" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Rinaldo Vaarikas&lt;br&gt;&lt;i style=&quot;color: rgb(128, 128, 128);&quot;&gt;Rühmavanem&lt;/i&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="ccZkCGxkQBuY12EpuAgt-60">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="1075" y="60" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
